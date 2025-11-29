@@ -1,0 +1,1 @@
+// Webinar model schema - placeholder
